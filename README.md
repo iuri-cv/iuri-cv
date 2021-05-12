@@ -1,5 +1,5 @@
 - 👋 🔬🧫💻 Hi, I’m Iuri. I have a BSc in Pharmacy and PhD in Sciences with focus on Cell and Tissue Biology. 
-- 👀 I am interested in bioimage analysis with a focus on light microscopy, extracellular matrix and cancer. 
+- 👀 I am interested in bioimage analysis with a focus on light microscopy, mechanotransduction, extracellular matrix and cancer. 
 - 🌱 I’m currently learning about Python, Deep Learning and macro scripting in Fiji. 
 - 💞️ I’m looking forward to collaborate on any project related to my areas of interest. 
 - 📫 You can reach me @ iuricv@gmail.com 
